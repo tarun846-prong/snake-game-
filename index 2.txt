@@ -23,5 +23,9 @@
 
  <script src="snake.js"></script>
 </body>
+
+   ```
+   <script src="snake.js"></script>
+   ```
 </html>
 ```
