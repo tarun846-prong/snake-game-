@@ -21,7 +21,7 @@
   </div>
  </div>
 
- <script src="snake.js"></script>
+ <script src="ganelogic.js"></script>
 <body/>
 
 </html>
